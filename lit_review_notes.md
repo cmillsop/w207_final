@@ -16,3 +16,11 @@
 - Paper using a recommender system to recommend travel locations.
   - Could use a similar approach to predict destinations, if features are structured appropriately.
   
+### [A Theoretical Analysis of NDCG Ranking Measures] (http://proceedings.mlr.press/v30/Wang13.pdf)
+- Exploration of the ranking mechanism that our results will be evaluated by.
+
+### [On Application of Learning to Rank for E-Commerce Search] (./p475-karmaker-santu.pdf)
+- Combining popularity based searches with user relevance searches
+
+### [A machine-learning approach to ranking RDF properties] (https://www.sciencedirect.com/science/article/pii/S0167739X15001764#bbr000225)
+- Section 3.1 introduces a number of ranking algorithms

@@ -10,3 +10,9 @@
 /.doit.db.dat
 /.doit.db.dir
 /unzipped_data
+
+# kaggle api key
+/kaggle.json
+
+# cm's virtual environment
+/w207-final
