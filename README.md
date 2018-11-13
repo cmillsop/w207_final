@@ -3,6 +3,12 @@
 
 ### Christian Millsop, Stanley Ye, Chris Ventura
 
-Please use the kaggle library to fetch data.
+
+The kaggle API can be used to fetch data and manage everything kaggle related.
+
 https://github.com/Kaggle/kaggle-api
-Your kaggle API token should be in the root folder and named kaggle.json.
+
+kaggle competitions download -c airbnb-recruiting-new-user-bookings
+
+Your API key needs to be set up in ~\.kaggle\kaggle.json.
+
