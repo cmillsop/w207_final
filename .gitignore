@@ -14,5 +14,6 @@
 # kaggle api key
 /kaggle.json
 
-# cm's virtual environment
+# cm's environment
 /w207-final
+/.vscode
