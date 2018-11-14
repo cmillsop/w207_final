@@ -3,12 +3,10 @@
 
 ### Christian Millsop, Stanley Ye, Chris Ventura
 
-
-The kaggle API can be used to fetch data and manage everything kaggle related.
-
-https://github.com/Kaggle/kaggle-api
-
-kaggle competitions download -c airbnb-recruiting-new-user-bookings
-
-Your API key needs to be set up in ~\.kaggle\kaggle.json.
-
+### Setup
++ Install the [kaggle API](https://github.com/Kaggle/kaggle-api)
+    + `pip install kaggle`
++ Get your [kaggle API key](https://www.kaggle.com/docs/api)
+    + place at `~\.kaggle\kaggle.json`
++ Use the initialize_data.py file to fetch data into `./data/extracted/`
+    + `python initialize_data.py`
