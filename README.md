@@ -10,3 +10,9 @@
     + place at `~\.kaggle\kaggle.json`
 + Use the initialize_data.py file to fetch data into `./data/extracted/`
     + `python initialize_data.py`
+
+### Resources
++ [Google Drive](https://drive.google.com/open?id=152yIQyhFyDSRRQZE-v8LPPF2z7pZeiBU)
++ Baseline
+    + [Requirements](https://drive.google.com/open?id=1IZeUNQQC6_F67f8YWCi5myEhUa3EBe7keekojPjDLNg)
+    + [Outline](https://drive.google.com/open?id=18mTnPOFkEPtZK-YfdbMsVxah7yS76HR66nLoFZPVIhs)
