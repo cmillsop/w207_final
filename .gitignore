@@ -18,5 +18,9 @@
 
 # sye
 BAK
+*.png
+*.tex
 *_sye.ipynb
 *_bak.ipynb
+kaggle_submission.csv
+
