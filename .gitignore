@@ -18,7 +18,6 @@
 
 # sye
 BAK
-*.png
 *.tex
 *_sye.ipynb
 *_bak.ipynb
