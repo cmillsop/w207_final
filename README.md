@@ -11,6 +11,12 @@
 + Use the initialize_data.py file to fetch data into `./data/extracted/`
     + `python initialize_data.py`
 
+### Description
++ Final submission product is Millsop_Venture_Ye_Final_Project_Submission
+  + Description of attempt, background, exploratory data analysis, predictions, and conclusion
++ Current work: millsop_stacked
+  + Using basis from Final_Project_Submission, except only includes an attempt to apply a Stacked Ensemble for improved results
+
 ### Resources
 + [Google Drive](https://drive.google.com/open?id=152yIQyhFyDSRRQZE-v8LPPF2z7pZeiBU)
 + Baseline
